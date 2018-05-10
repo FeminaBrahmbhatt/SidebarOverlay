@@ -6,7 +6,7 @@
 //  Copyright © 2016 Alex Krzyżanowski. All rights reserved.
 //
 
-
+//m1
 /**
  Enumeration that you can use to set the side where side view controller should be placed.
  
